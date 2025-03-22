@@ -1,7 +1,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=JF5BEQE3YQGH2)   
 ![alt text](https://i.imgur.com/BpuPBsR.png)
 
-# IMDb Scout Mod:
+# IMDb Scout MTH Mod:
 
 Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites.    
 Supports Re-designed/Reference pages and does multi auto-search on List/Watchlist/Advanced Title Search pages.   
