@@ -2369,7 +2369,7 @@ var private_sites = [
       'both': true},
   {   'name': 'AveTor',
       'icon': 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEX///8AAABVwtN+AAAAH0lEQVQI12NABowHQIg5AYTYEhjYHzDwJTDwJCArAQBsJARwFQ3b2QAAAABJRU5ErkJggg==',
-      'searchUrl': 'https://avetorrents.com/catalogue.php?cat=movies&tname=%search_string_orig%&year=%year%',
+      'searchUrl': 'https://avetorrents.com/catalogue.php?name=%search_string_orig%&regi=&scen=&producer=&actor=&imdb=&year=%year%&land=&lang=&category=0&genre=&bgaudio=&bgsubs=&status=',
       'loggedOutRegex': /Cloudflare|Ray ID|Забравили сте си паролата/,
       'matchRegex': /Няма нищо намерено/,
       'both': true},
