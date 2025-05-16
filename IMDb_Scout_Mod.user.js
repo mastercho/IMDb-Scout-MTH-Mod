@@ -8706,7 +8706,7 @@ function getAuthFromJellyfin(jelly_url, jelly_user, jelly_pass, debug) {
     const post_data = '{"Username":"' +jelly_user+ '","Pw":"' +jelly_pass+ '"}';
     GM.xmlHttpRequest({
       method: "POST",
-      timeout: 5000,
+      timeout: 10000,
       url:    url,
       headers: {
         "Accept": "application/json",
